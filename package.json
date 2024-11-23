@@ -1,0 +1,22 @@
+{
+    "name": "oraleputosbot",
+    "version": "1.0.0",
+    "description": "Social media bot posting a video each tuesday to Mastodon and BlueSky",
+    "main": "src/Global.js",
+    "scripts": {
+      "push-to-app": "cd src && clasp push -f",
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/manglaneso/oraleputosbot.git"
+    },
+    "author": "manglaneso",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/manglaneso/oraleputosbot/issues"
+    },
+    "homepage": "https://github.com/manglaneso/oraleputosbot#readme",
+    "dependencies": {
+      "@google/clasp": "^2.4.2"
+    }
+  }
