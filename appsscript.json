@@ -1,0 +1,25 @@
+{
+  "timeZone": "Europe/Paris",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "Twitterlib",
+        "libraryId": "11dB74uW9VLpgvy1Ax3eBZ8J7as0ZrGtx4BPw7RKK-JQXyAJHBx98pY-7",
+        "version": "28"
+      },
+      {
+        "userSymbol": "MastodonAPI",
+        "libraryId": "1jS989gPrhRRehNc6tBvMDF8XPzKAIHeiVLpmOf_V5mZ-JgYLQA6XeRg9",
+        "version": "2"
+      },
+      {
+        "userSymbol": "BlueSkyAPI",
+        "libraryId": "1CZLW7OUPIgrr0oblfsNQ5ir-k1sF8jVryUeRj4fb1WoOom-OTSciVq96",
+        "version": "6",
+        "developmentMode": false
+      }
+    ]
+  }
+}
