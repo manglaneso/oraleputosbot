@@ -4,7 +4,7 @@
     "description": "Social media bot posting a video each tuesday to Mastodon and BlueSky",
     "main": "src/Global.js",
     "scripts": {
-      "push-to-app": "cd src && clasp push -f",
+      "push-to-app": "cd src && clasp push -f"
     },
     "repository": {
       "type": "git",
