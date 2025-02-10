@@ -1,6 +1,6 @@
 const accessToken = PropertiesService.getScriptProperties().getProperty("MASTODON_ACCESS_TOKEN");
 
-const mastodonBaseUrl = 'https://mastodon.cloud';
+const mastodonBaseUrl = 'https://mastodon.social';
 
 const masto = MastodonAPI.init(mastodonBaseUrl, accessToken);
 
